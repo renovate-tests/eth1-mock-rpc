@@ -64,7 +64,7 @@ _go_image_repos()
 
 git_repository(
     name = "graknlabs_bazel_distribution",
-    commit = "bd93910450a0f041f5d34a4b97faffcabba21419",
+    commit = "122c3b66540282622956371d65ad77a3aec61eac",
     remote = "https://github.com/graknlabs/bazel-distribution",
     shallow_since = "1563544980 +0300",
 )
